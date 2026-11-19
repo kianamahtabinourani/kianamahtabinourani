@@ -69,13 +69,24 @@ Investigated disease-associated molecular biomarkers through computational gene 
 
 ---
 
+
 ## Featured Research Repositories
 
-### [SMA Biomarker Clustering](https://github.com/kianamahtabinourani/SMA-biomarker-clustering)
+### [SMA Splicing Drug Response ML](https://github.com/kianamahtabinourani/SMA-splicing-drug-response-ML)
 
-Computational analysis of gene expression patterns and biomarker-associated gene clusters in spinal muscular atrophy, using MATLAB-based clustering and systems biology approaches.
+A computational machine learning framework for modeling splice-modifying drug responses in spinal muscular atrophy (SMA). Integrates RNA splicing measurements, sequence-regulatory feature engineering, statistical analysis, and predictive modeling to investigate drug-induced changes in exon inclusion.
 
-**Methods & Tools:** MATLAB · Gene Expression Analysis · Clustering · Systems Biology
+**Methods & Tools:** MATLAB · Machine Learning · RNA Splicing · Feature Engineering · Statistical Analysis · Computational Genomics
+
+**Research Publication:** IEEE HONET-ICT 2025 (Accepted)
+
+### [SMA Biomarker Discovery and Clustering | BATS 2024](https://github.com/kianamahtabinourani/SMA-biomarker-clustering)
+
+A systems-level computational framework for investigating gene expression patterns and identifying potential biomarkers associated with spinal muscular atrophy (SMA). Integrates machine learning, gene expression analysis, and clustering techniques to explore disease-associated molecular signatures.
+
+**Methods & Tools:** MATLAB · Machine Learning · Gene Expression Analysis · Clustering · Systems Biology
+
+**Research Publication:** BATS 2024, Rome, Italy (Published)
 
 ### [Malaria Gene Expression Network](https://github.com/kianamahtabinourani/malaria-gene-expression-network)
 
